@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737617003916",
+    "firebase_url": "https://vital-measures.firebaseio.com",
+    "project_id": "vital-measures",
+    "storage_bucket": "vital-measures.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737617003916:android:baf7fb9cb10e4eb81b02a9",
+        "android_client_info": {
+          "package_name": "com.vitalsmeasure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737617003916-2u5tm7sj2im7e1di9peccjr03jmd03ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZRmS6_qQFbY3Cl_YaWB9lngpDJ2l-20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737617003916-2u5tm7sj2im7e1di9peccjr03jmd03ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
